@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
+    public string Map;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +20,8 @@ public class ChangeScene : MonoBehaviour
     }
 
     //ƒV[ƒ“‚ğ“Ç‚İ‚Ş
-    //public void load()
-    //{
-        //scenemanager.loadscene();
-    //}
+    public void Load()
+    {
+        SceneManager.LoadScene(Map);
+    }
 }
