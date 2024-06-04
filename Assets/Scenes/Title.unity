@@ -299,6 +299,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 4805038538114891802, guid: ebfd4a36ab9d29646a2d2d3082cc64d6, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1101
+      objectReference: {fileID: 0}
+    - target: {fileID: 4805038538114891802, guid: ebfd4a36ab9d29646a2d2d3082cc64d6, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4805038538114891802, guid: ebfd4a36ab9d29646a2d2d3082cc64d6, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.00019765
+      objectReference: {fileID: 0}
+    - target: {fileID: 4805038538114891802, guid: ebfd4a36ab9d29646a2d2d3082cc64d6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4832526758866540238, guid: ebfd4a36ab9d29646a2d2d3082cc64d6, type: 3}
       propertyPath: Map
       value: Map
